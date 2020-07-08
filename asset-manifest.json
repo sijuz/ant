@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ant/static/css/main.c9930c66.chunk.css",
-    "main.js": "/ant/static/js/main.6f06fbdb.chunk.js",
-    "main.js.map": "/ant/static/js/main.6f06fbdb.chunk.js.map",
-    "runtime-main.js": "/ant/static/js/runtime-main.ed72bbf6.js",
-    "runtime-main.js.map": "/ant/static/js/runtime-main.ed72bbf6.js.map",
-    "static/css/2.8c9b10a9.chunk.css": "/ant/static/css/2.8c9b10a9.chunk.css",
-    "static/js/2.e957c37a.chunk.js": "/ant/static/js/2.e957c37a.chunk.js",
-    "static/js/2.e957c37a.chunk.js.map": "/ant/static/js/2.e957c37a.chunk.js.map",
-    "index.html": "/ant/index.html",
-    "precache-manifest.738b720390fccda9c7dbb9194aec1d40.js": "/ant/precache-manifest.738b720390fccda9c7dbb9194aec1d40.js",
-    "service-worker.js": "/ant/service-worker.js",
-    "static/css/2.8c9b10a9.chunk.css.map": "/ant/static/css/2.8c9b10a9.chunk.css.map",
-    "static/css/main.c9930c66.chunk.css.map": "/ant/static/css/main.c9930c66.chunk.css.map",
-    "static/js/2.e957c37a.chunk.js.LICENSE.txt": "/ant/static/js/2.e957c37a.chunk.js.LICENSE.txt",
-    "static/media/Persik.css": "/ant/static/media/fon.1eddcd7e.svg",
-    "static/media/logo.svg": "/ant/static/media/logo.1446db78.svg",
-    "static/media/logo_d.svg": "/ant/static/media/logo_d.9d8d3085.svg"
+    "main.css": "/shop/static/css/main.7f640029.chunk.css",
+    "main.js": "/shop/static/js/main.6f06fbdb.chunk.js",
+    "main.js.map": "/shop/static/js/main.6f06fbdb.chunk.js.map",
+    "runtime-main.js": "/shop/static/js/runtime-main.a8e8ffcf.js",
+    "runtime-main.js.map": "/shop/static/js/runtime-main.a8e8ffcf.js.map",
+    "static/css/2.8c9b10a9.chunk.css": "/shop/static/css/2.8c9b10a9.chunk.css",
+    "static/js/2.db02d554.chunk.js": "/shop/static/js/2.db02d554.chunk.js",
+    "static/js/2.db02d554.chunk.js.map": "/shop/static/js/2.db02d554.chunk.js.map",
+    "index.html": "/shop/index.html",
+    "precache-manifest.94345563a9680193c9fe6b9f2905cbda.js": "/shop/precache-manifest.94345563a9680193c9fe6b9f2905cbda.js",
+    "service-worker.js": "/shop/service-worker.js",
+    "static/css/2.8c9b10a9.chunk.css.map": "/shop/static/css/2.8c9b10a9.chunk.css.map",
+    "static/css/main.7f640029.chunk.css.map": "/shop/static/css/main.7f640029.chunk.css.map",
+    "static/js/2.db02d554.chunk.js.LICENSE.txt": "/shop/static/js/2.db02d554.chunk.js.LICENSE.txt",
+    "static/media/Persik.css": "/shop/static/media/fon.1eddcd7e.svg",
+    "static/media/logo.svg": "/shop/static/media/logo.1446db78.svg",
+    "static/media/logo_d.svg": "/shop/static/media/logo_d.9d8d3085.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed72bbf6.js",
+    "static/js/runtime-main.a8e8ffcf.js",
     "static/css/2.8c9b10a9.chunk.css",
-    "static/js/2.e957c37a.chunk.js",
-    "static/css/main.c9930c66.chunk.css",
+    "static/js/2.db02d554.chunk.js",
+    "static/css/main.7f640029.chunk.css",
     "static/js/main.6f06fbdb.chunk.js"
   ]
 }
